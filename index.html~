@@ -1,0 +1,18 @@
+<DOCTYPLE! html>
+<html>
+ <head>
+  <link rel="stylesheet" type="text/css" href="My Online Portfolio.css">
+   <title> Dylans Portfolio </title>
+    </head> 
+     <body> 
+<h1> Welcome </h1>
+ <img class="image2" src="Need PR.jpg" alt="PR" style="width:935px;height:370px;">
+  <div class="buttons">
+   <a href="My Online Portfolio About Me.html"><button>About Me</button></a>
+   <a href="My Online Portfolio Skill Set.html"><button>Skill Set</button></a>
+   <a href="My Online Portfolio Portfolio.html"><button>Portfolio</button></a>
+   </div>
+    <a href="New Resume.docx" download><img class="image4" src="Download Resume.png" 
+    alt="Resume" style="width:500px;height:580px;"></a>
+    </body>
+     </html>
