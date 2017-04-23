@@ -31,7 +31,6 @@ color: #469197
 }
 
 h4 {
-padding-top: 25px;
 color: #469197
 margin: auto 0;  
 }
@@ -43,9 +42,9 @@ list-style: none;
 }
 
 div.buttons {
-	margin: 0 auto;
-	width: 195px;
-	padding-top: 25px;
+margin: 0 auto;
+width: 195px;
+padding-top: 25px;
 }
 
 h2, h3, {
