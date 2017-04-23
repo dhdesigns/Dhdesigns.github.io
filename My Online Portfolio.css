@@ -47,6 +47,7 @@ padding-top: 25px;
 h2, h3, {
 display: inline;
 margin: auto 0;
+text-align: center;
 }
 
 img.image1 {
