@@ -18,8 +18,11 @@ text-align: center;
 color: #469197
 }
  
+h2 {
+ Text-align: center;
+ margin: auto 0;
+}
  
-
 
 h3 {
 text-align: right;
