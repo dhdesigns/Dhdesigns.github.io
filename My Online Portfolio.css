@@ -44,7 +44,7 @@ width: 195px;
 padding-top: 25px;
 }
 
-h2, h3, {
+div.otherpages {
 display: inline;
 margin: auto 0;
 text-align: center;
