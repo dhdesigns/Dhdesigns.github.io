@@ -54,3 +54,12 @@ div.mail {
     max-width:100%;
   }
 }
+
+@media screen and (max-width:6400px) {
+  #container{
+    max-width:640;
+  }
+  img {
+    max-width:100%;
+  }
+}
