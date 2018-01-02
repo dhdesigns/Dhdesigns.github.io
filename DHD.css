@@ -42,7 +42,7 @@ padding-left: 25px;
   margin: 0px auto;
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:960px) {
   #container{
     max-width:100%;
   }
