@@ -37,6 +37,10 @@ margin-bottom: 500px;
 padding-left: 25px;
 }
 
+div.mail {
+  padding-top: 50px;
+}
+
 #container {
   width: 960px;
   margin: 0px auto;
