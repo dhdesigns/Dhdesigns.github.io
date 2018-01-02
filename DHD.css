@@ -44,7 +44,7 @@ padding-left: 25px;
 
 @media screen and (max-width:959px) {
   #container{
-    width:100%;
+    max-width:100%;
   }
   img {
     max-width:100%;
