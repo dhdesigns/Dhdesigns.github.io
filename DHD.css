@@ -60,4 +60,14 @@ padding-left: 25px;
   }
 }
 
+@media screen and (max-width:320px) {
+  #container{
+    width:100%;
+  }
+  img {
+    width:100%;
+  }
+}
+
+
 
