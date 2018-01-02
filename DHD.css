@@ -42,12 +42,12 @@ padding-left: 25px;
   margin: 0px auto;
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:959px) {
   #container{
-    max-width:100%;
+    width:100%;
   }
   img {
-    max-width:100%;
+    width:100%;
   }
 }
 
