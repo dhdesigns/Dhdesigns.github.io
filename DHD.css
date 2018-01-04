@@ -55,7 +55,7 @@ div.mail {
   }
 }
 
-@media screen and (max-width:6400px) {
+@media screen and (max-width:640px) {
   #container{
     max-width:640;
   }
