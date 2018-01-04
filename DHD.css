@@ -42,13 +42,13 @@ div.mail {
 }
 
 #container {
-  width: 899px;
+  width: 640px;
   margin: 0px auto;
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:640px) {
   #container{
-    max-width:899px;
+    max-width:639px;
   }
   img.main {
     max-width:100%;
