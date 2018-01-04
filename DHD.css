@@ -46,9 +46,9 @@ div.mail {
   margin: 0px auto;
 }
 
-@media screen and (max-width:1000px) {
+@media screen and (max-width:900px) {
   #container{
-    max-width:999px;
+    max-width:899px;
   }
   img {
     max-width:100%;
