@@ -46,11 +46,6 @@ img.banner-image {
   mad-width: 100%;
 }
 
-#container {
-  width: 960px;
-  margin: 0px auto;
-}
-
 .banner {
   max-width:100%;
   display:block;
