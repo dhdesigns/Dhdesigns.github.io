@@ -51,7 +51,7 @@ div.mail {
   #container{
     max-width:100%;
   }
-  img {
+  img.banner-image {
     max-width:100%;
   }
 }
