@@ -42,6 +42,10 @@ div.mail {
   padding-top: 19px;
 }
 
+img.banner-image {
+  mad-width: 100%;
+}
+
 #container {
   width: 960px;
   margin: 0px auto;
