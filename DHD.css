@@ -18,6 +18,7 @@ font-family: Arial;
 
 img {
 padding-top: 50px;
+max-width: 100%;
 }
 
 img.about {
