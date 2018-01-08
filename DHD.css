@@ -17,9 +17,10 @@ img.banner-image {
   mad-width: 100%;
 }
 
-.banner {
+img.banner {
   max-width:100%;
   display:block;
+  padding-top: 50px;
 }
 
 @media screen and (max-width:640px) {
