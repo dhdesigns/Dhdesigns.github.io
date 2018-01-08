@@ -13,14 +13,10 @@ div.mail {
   padding-top: 19px;
 }
 
-img.banner-image {
-  mad-width: 100%;
-}
-
 img.banner {
   max-width:100%;
   display:block;
-  padding-top: 50px;
+  padding-top: 100px;
 }
 
 @media screen and (max-width:640px) {
