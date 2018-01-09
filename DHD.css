@@ -31,4 +31,7 @@ img.banner {
     max-width:100%;
     height: auto;
   }
+  h1.head1 {
+    width:100%
+  }
 }
