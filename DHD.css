@@ -24,19 +24,19 @@ img.banner {
   h1.head1 {
     width:100%;
   }
-  p.head1 {
-    width:100%;
-  }
+
+ p {
+text-align: center;
+padding-top: 10 px;
+font-family: Arial;
+width:100%;
 
 @media screen and (max-width:640px) {
   img.banner {
     max-width:100%;
     height: auto;
   }
-  h1.head1 { 
-    font-size: 18px !important; 
-  }
-  p.head1 { 
+  p { 
     font-size: 18px !important; 
   }
 }
