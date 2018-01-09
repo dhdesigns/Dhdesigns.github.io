@@ -23,8 +23,7 @@ font-family: Arial;
 width:100%;
 }
 
-h1.index {
-  width:100%;
+
 
 @media screen and (max-width:640px) {
   img.banner {
