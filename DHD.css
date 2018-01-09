@@ -34,5 +34,6 @@ width:100%;
   }
    h1.index { 
     font-size: 18px !important; 
+     max-width:100%;
   }
 }
