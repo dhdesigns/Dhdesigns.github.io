@@ -23,6 +23,8 @@ img.banner {
 
   h1.head1 {
     width:100%;
+    text-align: center;
+    font-family: Arial;
   }
 
  p {
