@@ -35,7 +35,7 @@ img.banner {
     max-width:100%;
     height: auto;
   }
-  h1.head1 {
-    width:100%;
+  h1.head1 { 
+    font-size: 18px !important; 
   }
 }
