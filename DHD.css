@@ -22,15 +22,9 @@ div.mail {
 
 img.banner {
   max-width:100%;
-  display:block;
   padding-top: 10px;
   height:100%;
 }
-
-img.dragon {
-    max-width:100%;
-    height:auto;
-  }
 
   h1.head1 {
     width:100%;
