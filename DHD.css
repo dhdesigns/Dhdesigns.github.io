@@ -23,6 +23,9 @@ font-family: Arial;
 width:100%;
 }
 
+h1.index {
+  width:100%;
+
 @media screen and (max-width:640px) {
   img.banner {
     max-width:100%;
@@ -30,6 +33,6 @@ width:100%;
   }
    h1.index { 
     font-size: 18px !important; 
-     max-width:100%;
+    width:100%;
   }
 }
