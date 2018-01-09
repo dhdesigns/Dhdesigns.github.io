@@ -23,10 +23,10 @@ img.banner {
   max-width:100%;
   display:block;
   padding-top: 10px;
-  height: auto;
+  height:100%;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:640px) {
   img.banner {
     max-width:100%;
     height: auto;
