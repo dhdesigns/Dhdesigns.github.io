@@ -24,6 +24,9 @@ img.banner {
   h1.head1 {
     width:100%;
   }
+  p.head1 {
+    width:100%;
+  }
 
 @media screen and (max-width:640px) {
   img.banner {
@@ -31,6 +34,9 @@ img.banner {
     height: auto;
   }
   h1.head1 { 
+    font-size: 18px !important; 
+  }
+  p.head1 { 
     font-size: 18px !important; 
   }
 }
