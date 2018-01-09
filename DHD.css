@@ -26,6 +26,11 @@ img.banner {
   height:100%;
 }
 
+img.dragon {
+    max-width:100%;
+    height:auto;
+  }
+
   h1.head1 {
     width:100%;
   }
@@ -37,5 +42,9 @@ img.banner {
   }
   h1.head1 { 
     font-size: 18px !important; 
+  }
+  img.dragon {
+    max-width:100%;
+    height:auto;
   }
 }
