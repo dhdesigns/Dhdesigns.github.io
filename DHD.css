@@ -16,15 +16,6 @@ img.banner {
   height:100%;
 }
 
- p {
-text-align: center;
-padding-top: 10 px;
-font-family: Arial;
-width:100%;
-}
-
-
-
 @media screen and (max-width:640px) {
   img.banner {
     max-width:100%;
@@ -32,6 +23,10 @@ width:100%;
   }
    h1.index { 
     font-size: 15px !important; 
+    max-width:100%;
+  }
+  p.about {
+    font-size: 15px !important;
     max-width:100%;
   }
 }
