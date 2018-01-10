@@ -20,6 +20,12 @@ img.banner {
 }
 
 @media screen and (max-width:640px) {
+  body {
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+}
+Try it Yourself »
+
   img.banner {
     max-width:100%;
     height: auto;
