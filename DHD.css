@@ -24,6 +24,10 @@ img.banner {
     max-width:100%;
     height: auto;
   }
+  div.images {
+    max-width:100%
+    height: auto;
+  }
    h1.index { 
     font-size: 15px !important; 
     max-width:100%;
