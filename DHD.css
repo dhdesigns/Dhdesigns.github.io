@@ -1,5 +1,5 @@
 body {
- background-image: url("DHD_Background.jpg");
+ background-image: url("dhdb.png");
  background-repeat: no-repeat;
  background-size:cover;
  background-attachment:fixed;
@@ -28,13 +28,9 @@ img.banner {
 
 @media screen and (max-width:640px) {
 body {
- background-image: url("DHD_Background.jpg");
- background-repeat: no-repeat;
- background-size:cover;
- background-attachment:fixed;
+ max-width:100%;
+    height: auto;
  }
-Try it Yourself »
-
   img.banner {
     max-width:100%;
     height: auto;
