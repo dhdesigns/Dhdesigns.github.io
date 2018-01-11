@@ -1,3 +1,10 @@
+body {
+ background-image: url("DHD background.jpg");
+ background-repeat: no-repeat;
+ background-size:cover;
+ background-attachment:fixed;
+ }
+
 div.buttons2 {
   padding-bottom: 20px;
 }
@@ -20,10 +27,12 @@ img.banner {
 }
 
 @media screen and (max-width:640px) {
-  body {
-    background-image: url("DHD background.jpg");
-    background-repeat: no-repeat;
-}
+body {
+ background-image: url("DHD background.jpg");
+ background-repeat: no-repeat;
+ background-size:cover;
+ background-attachment:fixed;
+ }
 Try it Yourself »
 
   img.banner {
