@@ -28,6 +28,29 @@ img.banner {
   height:100%;
 }
 
+@media screen and (max-width:960px) {
+  img.banner {
+    max-width:100%;
+    height: auto;
+  }
+   img.design {
+    max-width:100%;
+    height: auto;
+  }
+  div.images {
+    max-width:100%
+    height: auto;
+  }
+   h1.index { 
+    font-size: 15px !important; 
+    max-width:100%;
+  }
+  p.about {
+    font-size: 15px !important;
+    max-width:100%;
+  }
+}
+
 @media screen and (max-width:640px) {
   img.banner {
     max-width:100%;
