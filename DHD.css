@@ -59,6 +59,11 @@ img.banner {
 }
 
 @media screen and (max-width:640px) {
+ 
+ body {
+  max-width:100%
+  height:auto;
+ }
   img.banner {
     max-width:100%;
     height: auto;
