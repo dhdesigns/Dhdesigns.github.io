@@ -5,6 +5,10 @@ body {
  background-attachment:fixed;
  }
 
+div.buttona {
+ padding-right:5px;
+}
+
 div.buttons1 {
   padding-bottom: 13px;
 }
