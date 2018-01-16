@@ -40,7 +40,7 @@ img.banner {
   height:100%;
 }
 
-@media screen and (max-width:1000px) {
+@media screen and (max-width:1030px) {
  body {
   max-width:100%
   height:auto;
