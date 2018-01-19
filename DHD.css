@@ -5,8 +5,8 @@ body {
  background-attachment:fixed;
  }
 
-h1 {
- font-size:20px;
+h1.index {
+ font-size:40px;
 }
 
 img.buttona {
