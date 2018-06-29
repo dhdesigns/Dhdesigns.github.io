@@ -1,9 +1,8 @@
 body.bkrnd {
  background-image: url("FB_Cover2.jpg");
  background-repeat: no-repeat;
- background-size: cover;
+ background-size: 100% 100%;
  background-attachment: scroll;
- padding-bottom: 100px;
  }
 
 h1.index {
