@@ -56,8 +56,7 @@ div.mail {
   height:auto;
  }
    body.bkrnd {
-  max-width:100%
-  height:auto;
+  backgound-attachment: scroll;
  }
   img.banner {
     max-width:100%;
@@ -88,8 +87,7 @@ div.mail {
   height:auto;
  }
    body.bkrnd {
-  max-width:100%
-  height:auto;
+  backgound-attachment: scroll;
  }
   img.banner {
     max-width:100%;
