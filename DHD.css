@@ -3,7 +3,7 @@ body.bkrnd {
  background-image: url("FB_Cover2.jpg");
  background-repeat: no-repeat;
  background-size: contain;
- background-attachment: scroll;
+ background-attachment: fixed;
  }
 
 h1.index {
