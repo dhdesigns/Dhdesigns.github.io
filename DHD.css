@@ -1,7 +1,7 @@
 body.bkrnd {
  background-image: url("FB_Cover2.jpg");
  background-repeat: no-repeat;
- background-size: contain;
+ background-size: cover;
  background-attachment: fixed;
  }
 
