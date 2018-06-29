@@ -3,6 +3,7 @@ body.bkrnd {
  background-repeat: no-repeat;
  background-size: cover;
  background-attachment: scroll;
+ padding-bottom: 50px;
  }
 
 h1.index {
