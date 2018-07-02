@@ -50,8 +50,8 @@ div.mail {
   padding-top: 19px;
 }
 
-@media screen and (max-width:768px) {
- body {
+@media screen and (max-width:1536px) {
+ body.bkrnd {
   max-width:100%
   height:auto;
  }
@@ -79,7 +79,7 @@ div.mail {
 }
 
 @media screen and (max-width:720px) {
-  body {
+  body.bkrnd {
   max-width:100%
   height:auto;
  }
