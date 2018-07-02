@@ -51,9 +51,16 @@ div.mail {
 }
 
 @media screen and (max-width:1536px) {
- body.bkrnd {
+ body. {
   max-width:100%
   height:auto;
+ }
+ body.bkrnd {
+ height: 100%;
+ background-image: url("FB2.jpg");
+ background-repeat: no-repeat;
+ background-size: 100%;
+ background-attachment: scroll;
  }
   img.banner {
     max-width:100%;
@@ -79,11 +86,17 @@ div.mail {
 }
 
 @media screen and (max-width:720px) {
-  body.bkrnd {
+  body {
   max-width:100%
   height:auto;
  }
-
+ body.bkrnd {
+ height: 100%;
+ background-image: url("FB2.jpg");
+ background-repeat: no-repeat;
+ background-size: 100%;
+ background-attachment: scroll;
+ }
   img.banner {
     max-width:100%;
     height: auto;
