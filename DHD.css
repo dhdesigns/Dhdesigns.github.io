@@ -55,13 +55,6 @@ div.mail {
   max-width:100%
   height:auto;
  }
- body.bkrnd {
- height: 100%;
- background-image: url("FB2.jpg");
- background-repeat: no-repeat;
- background-size: 100%;
- background-attachment: scroll;
- }
   img.banner {
     max-width:100%;
     height: auto;
@@ -89,13 +82,6 @@ div.mail {
   body {
   max-width:100%
   height:auto;
- }
- body.bkrnd {
- height: 100%;
- background-image: url("FB2.jpg");
- background-repeat: no-repeat;
- background-size: 100%;
- background-attachment: scroll;
  }
   img.banner {
     max-width:100%;
